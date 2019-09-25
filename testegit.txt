@@ -1,1 +1,2 @@
-versão 01 do arquivo testegit.txt
+versão 02 do arquivo testegit.txt
+linha 02
